@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="banksqlModel1.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'banksql.dbo.userStats' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="userStats">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Year" Type="int" />
+    <Property Name="Total" Type="decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityContainer Name="banksqlModel1StoreContainer">
+    <EntitySet Name="userStats" EntityType="Self.userStats" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [userStats].[id] AS [id], 
+    [userStats].[Year] AS [Year], 
+    [userStats].[Total] AS [Total]
+    FROM [dbo].[userStats] AS [userStats]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

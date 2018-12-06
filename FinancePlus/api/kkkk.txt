@@ -1,0 +1,74 @@
+banksqlEntities
+
+banksqlModel
+
+
+-----------------
+
+UserStatsbanksqlEntities1
+banksqlModel1
+
+
+
+
+Microsoft .net framework Unhandled Exception has occoured in your Application System.Threading.ThreadAbortException: Thread was being aborted.
+
+
+
+00006795
+
+
+2004515711
+
+2710992710
+
+
+2005456761
+
+
+
+2005455
+
+
+----------------------
+
+DataSet3
+banksqlDataSet3
+
+
+----------
+
+
+            fullname.Enabled = true;
+            address.Enabled = true;
+            city.Enabled = true;
+            state.Enabled = true;
+            email.Enabled = true;
+            date_ofbirth.Enabled = true;
+            tel.Enabled = true;
+            id_type.Enabled = true;
+            id_number.Enabled = true;
+            account_type.Enabled = true;
+            bvn.Enabled = true;
+
+
+----------------
+
+2005457515
+
+
+
+
+fullname
+email
+account_number
+balance
+
+
+-----------
+3032290182
+
+
+http://localhost:8080/api/api.php?account_number=&transaction_desc=&credit=&balance=&transaction_date=
+
+http://localhost:8080/api/api.php?account_number=3032290182&transaction_desc=EFT Zhane Co&credit=600000&transaction_date=23-1-2017

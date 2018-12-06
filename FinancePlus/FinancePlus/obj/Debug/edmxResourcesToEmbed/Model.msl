@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="banksqlModelStoreContainer" CdmEntityContainer="banksqlEntities">
+    <EntitySetMapping Name="login_reports">
+      <EntityTypeMapping TypeName="banksqlModel.login_reports">
+        <MappingFragment StoreEntitySet="login_reports">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="year" ColumnName="year" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,167 @@
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe.config
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\FinancePlus.pdb
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\SplashScreen.dll
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Properties.Resources.resources
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.GenerateResource.Cache
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.exe
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.pdb
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Form1.resources
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Login.resources
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AccountOpening.resources
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\AForge.Video.dll
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\AForge.dll
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\AForge.Video.xml
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\AForge.Video.DirectShow.xml
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\bin\Debug\AForge.xml
+c:\users\emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Camera.resources
+C:\Users\Emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.CheckBalance.resources
+C:\Users\Emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.CashManagement.resources
+C:\Users\Emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csprojResolveAssemblyReference.cache
+C:\Users\Emeka\documents\visual studio 2015\Projects\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Transfers.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe.config
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.pdb
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\SplashScreen.dll
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AccountOpening.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Camera.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.CheckBalance.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Deposit.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Form1.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.LoanApplication.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Login.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Properties.Resources.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Transfers.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Withdrawal.resources
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.GenerateResource.Cache
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.exe
+C:\Users\EMI\Desktop\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.pdb
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.SqlServer.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\SplashScreen.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe.config
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.pdb
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.xml
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.SqlServer.xml
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AccountOpening.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AdminArea.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AdminDashboard.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Camera.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.CheckBalance.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Deposit.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Form1.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.BalanceSheet.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.IDManagement.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Infoform.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Login.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.ManageUsers.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.OtherBankTransfers.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Password.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Properties.Resources.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Transfers.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.UserLoginReports.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Withdrawal.resources
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.GenerateResource.Cache
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\RdlCompile.cache
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\RdlCompile.compiled
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.exe
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.pdb
+H:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csprojResolveAssemblyReference.cache
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe.config
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.pdb
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.SqlServer.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\SplashScreen.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.xml
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.SqlServer.xml
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AccountOpening.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AdminArea.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AdminDashboard.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Camera.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.CheckBalance.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Deposit.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Form1.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.BalanceSheet.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.IDManagement.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Infoform.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Login.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.ManageUsers.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.OtherBankTransfers.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Password.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Properties.Resources.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Transfers.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.UserLoginReports.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Withdrawal.resources
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.GenerateResource.cache
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.exe
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.pdb
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe.config
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.exe
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\FinancePlus.pdb
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.SqlServer.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\SplashScreen.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.xml
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\EntityFramework.SqlServer.xml
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AccountOpening.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AdminArea.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.AdminDashboard.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Camera.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.CheckBalance.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Deposit.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Form1.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.BalanceSheet.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.IDManagement.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Infoform.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Login.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.ManageUsers.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.OtherBankTransfers.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Password.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Properties.Resources.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Transfers.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.UserLoginReports.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.Withdrawal.resources
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.GenerateResource.cache
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.CoreCompileInputs.cache
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csproj.CopyComplete
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.exe
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.pdb
+F:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csprojAssemblyReference.cache
+E:\updated_banksoft\FinancePlus\FinancePlus\obj\Debug\FinancePlus.csprojResolveAssemblyReference.cache
